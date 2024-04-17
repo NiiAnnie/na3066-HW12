@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# No Loops!  All vectorized code.
 import numpy as np
 def getBondPrice(y, face, couponRate, m, ppy=1):
     dfs = (1 + y)** -np.arange(1,m+1)
