@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # No Loops!  All vectorized code.
 import numpy as np
 def getBondDuration(y, face, couponRate, m, ppy=1):
