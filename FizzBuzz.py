@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# Have this code run for any start and finish values
-
 # No Loops!  All vectorized code.
 import numpy as np
 def FizzBuzz(start, finish):
